@@ -1,0 +1,7 @@
+https://www.yuque.com/docs/share/562fd607-0239-4076-b1ea-2629af59cee2?# 《Foreignkeyservice（外键服务）》
+https://www.yuque.com/docs/share/55bf9dd3-44e6-4a97-9278-4352dc30e5d9?# 《Websocket使用》
+https://www.yuque.com/docs/share/c0d85026-96b9-4028-abef-6f3b11900d3d?# 《Redis在项目中的使用》
+https://www.yuque.com/docs/share/e346bcd3-edce-4aa4-9de8-960693e93c0f?# 《okhttp组件封装使用说明书》
+https://www.yuque.com/docs/share/7b27b9c1-c56c-49bf-8bdc-38e21afffe07?# 《commons-lang3（通用工具）》
+https://www.yuque.com/docs/share/87c1dd39-58d7-4970-917f-47279640ef09?# 《Fastjson（JSON）》
+https://www.yuque.com/docs/share/47682d82-a78b-4155-ac2c-cf5cfad5d9fe?# 《Gson（JSON）》
